@@ -1,0 +1,3076 @@
+{
+  "total_original_features": 65391,
+  "total_selected_features": 438,
+  "selection_method": "variance_then_centroid",
+  "patterns_found": 29,
+  "strict_clustering": true,
+  "coexp_limit": 15,
+  "selected_features": [
+    {
+      "selected_column": 49999,
+      "feature_name": "pathways.540",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50117,
+      "feature_name": "pathways.658",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49537,
+      "feature_name": "pathways.78",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 53036,
+      "feature_name": "pathways.3577",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57367,
+      "feature_name": "pathways.7908",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57685,
+      "feature_name": "pathways.8226",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54891,
+      "feature_name": "pathways.5432",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57238,
+      "feature_name": "pathways.7779",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 52661,
+      "feature_name": "pathways.3202",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54442,
+      "feature_name": "pathways.4983",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55776,
+      "feature_name": "pathways.6317",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55779,
+      "feature_name": "pathways.6320",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 53622,
+      "feature_name": "pathways.4163",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57259,
+      "feature_name": "pathways.7800",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57806,
+      "feature_name": "pathways.8347",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55332,
+      "feature_name": "pathways.5873",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54093,
+      "feature_name": "pathways.4634",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54272,
+      "feature_name": "pathways.4813",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9268,
+      "feature_name": "ImmGen.55",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50482,
+      "feature_name": "pathways.1023",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55004,
+      "feature_name": "pathways.5545",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9319,
+      "feature_name": "ImmGen.106",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 53445,
+      "feature_name": "pathways.3986",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55000,
+      "feature_name": "pathways.5541",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 53146,
+      "feature_name": "pathways.3687",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50685,
+      "feature_name": "pathways.1226",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49631,
+      "feature_name": "pathways.172",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55160,
+      "feature_name": "pathways.5701",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50883,
+      "feature_name": "pathways.1424",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50947,
+      "feature_name": "pathways.1488",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9081,
+      "feature_name": "Franke.20",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49721,
+      "feature_name": "pathways.262",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55276,
+      "feature_name": "pathways.5817",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54747,
+      "feature_name": "pathways.5288",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 51956,
+      "feature_name": "pathways.2497",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 53401,
+      "feature_name": "pathways.3942",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54548,
+      "feature_name": "pathways.5089",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57722,
+      "feature_name": "pathways.8263",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55144,
+      "feature_name": "pathways.5685",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57362,
+      "feature_name": "pathways.7903",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 52735,
+      "feature_name": "pathways.3276",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 56199,
+      "feature_name": "pathways.6740",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57921,
+      "feature_name": "pathways.8462",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49518,
+      "feature_name": "pathways.59",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50799,
+      "feature_name": "pathways.1340",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50135,
+      "feature_name": "pathways.676",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54157,
+      "feature_name": "pathways.4698",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 51638,
+      "feature_name": "pathways.2179",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 51215,
+      "feature_name": "pathways.1756",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49579,
+      "feature_name": "pathways.120",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 54806,
+      "feature_name": "pathways.5347",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57111,
+      "feature_name": "pathways.7652",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55885,
+      "feature_name": "pathways.6426",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57688,
+      "feature_name": "pathways.8229",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 56295,
+      "feature_name": "pathways.6836",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50524,
+      "feature_name": "pathways.1065",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55350,
+      "feature_name": "pathways.5891",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 53102,
+      "feature_name": "pathways.3643",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 50917,
+      "feature_name": "pathways.1458",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 55205,
+      "feature_name": "pathways.5746",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49578,
+      "feature_name": "pathways.119",
+      "pattern": "other",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4,
+      "feature_name": "Transcript_count",
+      "pattern": "Transcript",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58081,
+      "feature_name": "ABC_12_score",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58329,
+      "feature_name": "ABC_129_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57966,
+      "feature_name": "ABC_28_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58026,
+      "feature_name": "ABC_88_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58017,
+      "feature_name": "ABC_79_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58306,
+      "feature_name": "ABC_106_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58027,
+      "feature_name": "ABC_89_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58155,
+      "feature_name": "ABC_86_score",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58059,
+      "feature_name": "ABC_121_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57942,
+      "feature_name": "ABC_4_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58316,
+      "feature_name": "ABC_116_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58034,
+      "feature_name": "ABC_96_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58303,
+      "feature_name": "ABC_103_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58208,
+      "feature_name": "ABC_8_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58310,
+      "feature_name": "ABC_110_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58010,
+      "feature_name": "ABC_72_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57948,
+      "feature_name": "ABC_10_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58227,
+      "feature_name": "ABC_27_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6,
+      "feature_name": "ABC_count1",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58327,
+      "feature_name": "ABC_127_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58167,
+      "feature_name": "ABC_98_score",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58037,
+      "feature_name": "ABC_99_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58326,
+      "feature_name": "ABC_126_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58308,
+      "feature_name": "ABC_108_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58231,
+      "feature_name": "ABC_31_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57990,
+      "feature_name": "ABC_52_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58046,
+      "feature_name": "ABC_108_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58240,
+      "feature_name": "ABC_40_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58009,
+      "feature_name": "ABC_71_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57958,
+      "feature_name": "ABC_20_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58015,
+      "feature_name": "ABC_77_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58313,
+      "feature_name": "ABC_113_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58101,
+      "feature_name": "ABC_32_score",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57955,
+      "feature_name": "ABC_17_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58105,
+      "feature_name": "ABC_36_score",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57979,
+      "feature_name": "ABC_41_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58270,
+      "feature_name": "ABC_70_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58003,
+      "feature_name": "ABC_65_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58274,
+      "feature_name": "ABC_74_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57972,
+      "feature_name": "ABC_34_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58225,
+      "feature_name": "ABC_25_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58251,
+      "feature_name": "ABC_51_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58011,
+      "feature_name": "ABC_73_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57964,
+      "feature_name": "ABC_26_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58205,
+      "feature_name": "ABC_5_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58129,
+      "feature_name": "ABC_60_score",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58006,
+      "feature_name": "ABC_68_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58285,
+      "feature_name": "ABC_85_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57938,
+      "feature_name": "ABC_0_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58300,
+      "feature_name": "ABC_100_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58218,
+      "feature_name": "ABC_18_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58309,
+      "feature_name": "ABC_109_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 57996,
+      "feature_name": "ABC_58_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58041,
+      "feature_name": "ABC_103_count",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58267,
+      "feature_name": "ABC_67_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58311,
+      "feature_name": "ABC_111_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58304,
+      "feature_name": "ABC_104_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58213,
+      "feature_name": "ABC_13_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58256,
+      "feature_name": "ABC_56_length",
+      "pattern": "ABC",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 11,
+      "feature_name": "Roadmap_count1",
+      "pattern": "Roadmap",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 12,
+      "feature_name": "Roadmap_count2",
+      "pattern": "Roadmap",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 13,
+      "feature_name": "Roadmap_count3",
+      "pattern": "Roadmap",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 14,
+      "feature_name": "Roadmap_length",
+      "pattern": "Roadmap",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15,
+      "feature_name": "Roadmap_length_per_type",
+      "pattern": "Roadmap",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 16,
+      "feature_name": "promoter_count",
+      "pattern": "promoter",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 18,
+      "feature_name": "connect_decile",
+      "pattern": "connect",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 19,
+      "feature_name": "connect_quantile",
+      "pattern": "connect",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 21,
+      "feature_name": "PPI_degree_decile",
+      "pattern": "PPI",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 22,
+      "feature_name": "PPI_degree_quantile",
+      "pattern": "PPI",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 23,
+      "feature_name": "PPI_degree_cat",
+      "pattern": "PPI",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 25,
+      "feature_name": "top_h2",
+      "pattern": "top",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 27,
+      "feature_name": "obs_mis",
+      "pattern": "obs",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 30,
+      "feature_name": "obs_mis_pphen",
+      "pattern": "obs",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33,
+      "feature_name": "obs_lof",
+      "pattern": "obs",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 28,
+      "feature_name": "exp_mis",
+      "pattern": "exp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 31,
+      "feature_name": "exp_mis_pphen",
+      "pattern": "exp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 34,
+      "feature_name": "exp_lof",
+      "pattern": "exp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 29,
+      "feature_name": "oe_mis",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 32,
+      "feature_name": "oe_mis_pphen",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 35,
+      "feature_name": "oe_lof",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 36,
+      "feature_name": "oe_mis_lower",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 37,
+      "feature_name": "oe_mis_upper",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 38,
+      "feature_name": "oe_lof_lower",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 39,
+      "feature_name": "oe_lof_upper",
+      "pattern": "oe",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 40,
+      "feature_name": "mis_z",
+      "pattern": "mis",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 688,
+      "feature_name": "GO:0006244",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4427,
+      "feature_name": "GO:0050881",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3105,
+      "feature_name": "GO:0035810",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6790,
+      "feature_name": "GO:2000628",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 8100,
+      "feature_name": "GO:0140312",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6964,
+      "feature_name": "GO:0003824",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 7169,
+      "feature_name": "GO:0005501",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6627,
+      "feature_name": "GO:1905332",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1542,
+      "feature_name": "GO:0010596",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 897,
+      "feature_name": "GO:0006778",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6931,
+      "feature_name": "GO:0002039",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6174,
+      "feature_name": "GO:1901565",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5600,
+      "feature_name": "GO:0072655",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 8088,
+      "feature_name": "GO:0140102",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1224,
+      "feature_name": "GO:0008211",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6837,
+      "feature_name": "GO:2001034",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 8534,
+      "feature_name": "GO:0031304",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1602,
+      "feature_name": "GO:0010758",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3163,
+      "feature_name": "GO:0036295",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6950,
+      "feature_name": "GO:0003725",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1267,
+      "feature_name": "GO:0008637",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 2205,
+      "feature_name": "GO:0030199",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 7917,
+      "feature_name": "GO:0051018",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3808,
+      "feature_name": "GO:0045663",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4834,
+      "feature_name": "GO:0060068",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6838,
+      "feature_name": "GO:2001044",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4263,
+      "feature_name": "GO:0048703",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5693,
+      "feature_name": "GO:0090153",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 777,
+      "feature_name": "GO:0006473",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 7413,
+      "feature_name": "GO:0016502",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 7439,
+      "feature_name": "GO:0016701",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5957,
+      "feature_name": "GO:0099537",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5192,
+      "feature_name": "GO:0070228",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3701,
+      "feature_name": "GO:0045047",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 356,
+      "feature_name": "GO:0002335",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1553,
+      "feature_name": "GO:0010631",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 7488,
+      "feature_name": "GO:0016854",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6411,
+      "feature_name": "GO:1903265",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 2989,
+      "feature_name": "GO:0035020",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6165,
+      "feature_name": "GO:1901387",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4544,
+      "feature_name": "GO:0051234",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6988,
+      "feature_name": "GO:0004143",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6416,
+      "feature_name": "GO:1903311",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4574,
+      "feature_name": "GO:0051283",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1194,
+      "feature_name": "GO:0007623",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 2172,
+      "feature_name": "GO:0030041",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6323,
+      "feature_name": "GO:1902624",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3489,
+      "feature_name": "GO:0043371",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4063,
+      "feature_name": "GO:0046688",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3860,
+      "feature_name": "GO:0045814",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5728,
+      "feature_name": "GO:0090278",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 3453,
+      "feature_name": "GO:0043242",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6232,
+      "feature_name": "GO:1901976",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5221,
+      "feature_name": "GO:0070344",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 694,
+      "feature_name": "GO:0006268",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 2033,
+      "feature_name": "GO:0020027",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4418,
+      "feature_name": "GO:0050868",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4516,
+      "feature_name": "GO:0051149",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6104,
+      "feature_name": "GO:1900407",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 4018,
+      "feature_name": "GO:0046545",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 6350,
+      "feature_name": "GO:1902893",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 5205,
+      "feature_name": "GO:0070266",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 1788,
+      "feature_name": "GO:0015801",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 210,
+      "feature_name": "GO:0001824",
+      "pattern": "GO",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9049,
+      "feature_name": "GTEx_brain.1",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9050,
+      "feature_name": "GTEx_brain.2",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9051,
+      "feature_name": "GTEx_brain.3",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9052,
+      "feature_name": "GTEx_brain.4",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9053,
+      "feature_name": "GTEx_brain.5",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9054,
+      "feature_name": "GTEx_brain.6",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9055,
+      "feature_name": "GTEx_brain.7",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9056,
+      "feature_name": "GTEx_brain.8",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9057,
+      "feature_name": "GTEx_brain.9",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9058,
+      "feature_name": "GTEx_brain.10",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9059,
+      "feature_name": "GTEx_brain.11",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9060,
+      "feature_name": "GTEx_brain.12",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 9061,
+      "feature_name": "GTEx_brain.13",
+      "pattern": "GTEx",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 23461,
+      "feature_name": "human_eye_average_expression.8",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 11708,
+      "feature_name": "human_bonemarrow_projected_pcaloadings_clusters.128",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 17171,
+      "feature_name": "human_brain_visualcortex_projected_pcaloadings_clusters.20",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 14083,
+      "feature_name": "human_tcell_projected_pcaloadings_clusters.107",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 23829,
+      "feature_name": "human_eye_projected_pcaloadings.82",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15308,
+      "feature_name": "human_thymus_projected_pcaloadings_clusters.128",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 40346,
+      "feature_name": "human_monocytes_projected_pcaloadings_clusters_pre_def.39",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 11753,
+      "feature_name": "human_retina2_diffexprs_down_genes_clusters.5",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 41804,
+      "feature_name": "human_multiple_projected_pcaloadings_clusters_pre_def.376",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 41408,
+      "feature_name": "human_multiple_projected_pcaloadings_clusters.330",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 13580,
+      "feature_name": "human_brain3_adult_projected_pcaloadings_clusters_pre_def.63",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 48429,
+      "feature_name": "human_pbmc_projected_pcaloadings_clusters.3",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 38055,
+      "feature_name": "human_lung_projected_pcaloadings_clusters_pre_def.226",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 16056,
+      "feature_name": "human_brain_frontalcortex_average_expression.8",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 24393,
+      "feature_name": "human_eye_projected_pcaloadings_clusters_pre_def.176",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15171,
+      "feature_name": "human_thymus_projected_pcaloadings.91",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15434,
+      "feature_name": "human_brain_cerebellarhem_projected_pcaloadings.45",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33010,
+      "feature_name": "human_immune_projected_pcaloadings_clusters.52",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 36806,
+      "feature_name": "human_liver_projected_pcaloadings.66",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 13312,
+      "feature_name": "human_brain3_adult_projected_pcaloadings_clusters.85",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 28738,
+      "feature_name": "human_gut_imm_projected_pcaloadings.92",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33153,
+      "feature_name": "human_immune_projected_pcaloadings_clusters.195",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 20214,
+      "feature_name": "human_coloncancer_projected_pcaloadings.7",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 37561,
+      "feature_name": "human_lung_projected_pcaloadings.22",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 45784,
+      "feature_name": "human_nk_projected_pcaloadings_clusters.72",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 14742,
+      "feature_name": "human_brain4_projected_pcaloadings.5",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 14205,
+      "feature_name": "human_brain3_prenatal_diffexprs_tstat_clusters_pre_def.12",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33817,
+      "feature_name": "human_intestine_projected_pcaloadings.19",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 41667,
+      "feature_name": "human_multiple_projected_pcaloadings_clusters_pre_def.239",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 31130,
+      "feature_name": "human_hippocampus_projected_pcaloadings.4",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 20021,
+      "feature_name": "human_coloncancer_diffexprs_down_genes_clusters_pre_def.37",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 20233,
+      "feature_name": "human_coloncancer_projected_pcaloadings.26",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 37779,
+      "feature_name": "human_lung_projected_pcaloadings_clusters.140",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 17015,
+      "feature_name": "human_brain_visualcortex_projected_icaloadings.4",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 35661,
+      "feature_name": "human_kidney2_projected_pcaloadings_clusters.45",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 41315,
+      "feature_name": "human_multiple_projected_pcaloadings_clusters.237",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 27880,
+      "feature_name": "human_gut_fib_projected_pcaloadings.92",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33715,
+      "feature_name": "human_intestine_diffexprs_down_genes_clusters_pre_def.1",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 31011,
+      "feature_name": "human_hippocampus_diffexprs_down_genes_clusters.12",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 25318,
+      "feature_name": "human_fetalblood_projected_pcaloadings_clusters.199",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 26591,
+      "feature_name": "human_gut_epi_projected_pcaloadings_clusters.220",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 24221,
+      "feature_name": "human_eye_projected_pcaloadings_clusters_pre_def.4",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 24857,
+      "feature_name": "human_fetalblood_diffexprs_genes_clusters.10",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 17248,
+      "feature_name": "human_brain_visualcortex_projected_pcaloadings_clusters.97",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 45795,
+      "feature_name": "human_nk_projected_pcaloadings_clusters.83",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 38115,
+      "feature_name": "human_lung_projected_pcaloadings_clusters_pre_def.286",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33060,
+      "feature_name": "human_immune_projected_pcaloadings_clusters.102",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 25035,
+      "feature_name": "human_fetalblood_projected_pcaloadings.16",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 43816,
+      "feature_name": "human_muscle_projected_pcaloadings_clusters.35",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 22260,
+      "feature_name": "human_embryo_projected_icaloadings.37",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 20282,
+      "feature_name": "human_coloncancer_projected_pcaloadings.75",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 11236,
+      "feature_name": "human_retina_projected_pcaloadings_clusters.57",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 40723,
+      "feature_name": "human_multiple_diffexprs_down_genes_clusters_pre_def.36",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 40075,
+      "feature_name": "human_monocytes_diffexprs_down_genes_clusters.7",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 35703,
+      "feature_name": "human_kidney2_projected_pcaloadings_clusters.87",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 25524,
+      "feature_name": "human_fetalblood_projected_pcaloadings_clusters_pre_def.205",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 37781,
+      "feature_name": "human_lung_projected_pcaloadings_clusters.142",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 40834,
+      "feature_name": "human_multiple_diffexprs_tstat_clusters.5",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 18645,
+      "feature_name": "human_colon2_projected_pcaloadings_clusters.196",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 14799,
+      "feature_name": "human_brain4_projected_pcaloadings.62",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15104,
+      "feature_name": "human_thymus_projected_pcaloadings.24",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 46636,
+      "feature_name": "human_pancreas_projected_pcaloadings_clusters.32",
+      "pattern": "human",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 44535,
+      "feature_name": "mouse_multiple2_facs_projected_pcaloadings_clusters.9",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15936,
+      "feature_name": "mouse_adipocyte_projected_pcaloadings_clusters.98",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 19292,
+      "feature_name": "mouse_brain2_projected_pcaloadings_clusters.19",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 36406,
+      "feature_name": "mouse_kidney_projected_pcaloadings_clusters.9",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 43536,
+      "feature_name": "mouse_multiple2_droplet_projected_pcaloadings_clusters_pre_def.604",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 25699,
+      "feature_name": "mouse_digestive_fetal_diffexprs_tstat_clusters.19",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 16902,
+      "feature_name": "mouse_airway_projected_pcaloadings_clusters.219",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15916,
+      "feature_name": "mouse_adipocyte_projected_pcaloadings_clusters.78",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 22960,
+      "feature_name": "mouse_development_projected_pcaloadings_clusters.117",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 43412,
+      "feature_name": "mouse_multiple2_droplet_projected_pcaloadings_clusters_pre_def.480",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 48573,
+      "feature_name": "mouse_thymus_diffexprs_down_genes_clusters.7",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15841,
+      "feature_name": "mouse_adipocyte_projected_pcaloadings_clusters.3",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 24503,
+      "feature_name": "mouse_digestive_adult_diffexprs_down_genes_clusters.11",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 16860,
+      "feature_name": "mouse_airway_projected_pcaloadings_clusters.177",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 43584,
+      "feature_name": "mouse_multiple2_droplet_projected_pcaloadings_clusters_pre_def.652",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 21945,
+      "feature_name": "mouse_brain4_neurons_projected_pcaloadings_clusters.97",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 46174,
+      "feature_name": "mouse_muscle_projected_pcaloadings_clusters.87",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 21607,
+      "feature_name": "mouse_brain4_neurons_diffexprs_down_genes_clusters.31",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 23022,
+      "feature_name": "mouse_development_projected_pcaloadings_clusters.179",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 17571,
+      "feature_name": "mouse_aorta_projected_pcaloadings_clusters.31",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 44691,
+      "feature_name": "mouse_multiple2_facs_projected_pcaloadings_clusters.165",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 42081,
+      "feature_name": "mouse_multiple2_droplet_diffexprs_down_genes_clusters_pre_def.98",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 31818,
+      "feature_name": "mouse_hairfollicle_projected_pcaloadings_clusters.107",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 37253,
+      "feature_name": "mouse_lung_projected_pcaloadings_clusters.52",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 27079,
+      "feature_name": "mouse_endothelium_projected_pcaloadings.20",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 35792,
+      "feature_name": "mouse_islets_diffexprs_down_genes_clusters.7",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 21095,
+      "feature_name": "mouse_brain4_bnst_projected_pcaloadings_clusters.99",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 30575,
+      "feature_name": "mouse_gutendoderm_projected_pcaloadings_clusters.126",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 39629,
+      "feature_name": "mouse_multiple_projected_pcaloadings_clusters.440",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 35917,
+      "feature_name": "mouse_islets_projected_pcaloadings.68",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 43225,
+      "feature_name": "mouse_multiple2_droplet_projected_pcaloadings_clusters_pre_def.293",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 36526,
+      "feature_name": "mouse_kidney_projected_pcaloadings_clusters.129",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 48813,
+      "feature_name": "mouse_thymus_projected_pcaloadings_clusters.50",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 42009,
+      "feature_name": "mouse_multiple2_droplet_diffexprs_down_genes_clusters_pre_def.26",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 44947,
+      "feature_name": "mouse_multiple2_facs_projected_pcaloadings_clusters_pre_def.81",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 29728,
+      "feature_name": "mouse_gastrulation_projected_pcaloadings_clusters_pre_def.68",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 38986,
+      "feature_name": "mouse_multiple_diffexprs_tstat_clusters.49",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15693,
+      "feature_name": "mouse_adipocyte_projected_icaloadings.15",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 15632,
+      "feature_name": "mouse_adipocyte_diffexprs_down_genes_clusters.20",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33553,
+      "feature_name": "mouse_heart_ko_projected_pcaloadings.88",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 32410,
+      "feature_name": "mouse_heart_control_projected_pcaloadings.43",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 33529,
+      "feature_name": "mouse_heart_ko_projected_pcaloadings.64",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 25615,
+      "feature_name": "mouse_digestive_fetal_average_expression.26",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 38780,
+      "feature_name": "mouse_multiple_diffexprs_down_genes_clusters.27",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 19555,
+      "feature_name": "mouse_brain2_projected_pcaloadings_clusters_pre_def.72",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 48628,
+      "feature_name": "mouse_thymus_projected_icaloadings.5",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 24713,
+      "feature_name": "mouse_digestive_adult_projected_pcaloadings_clusters.29",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 21598,
+      "feature_name": "mouse_brain4_neurons_diffexprs_down_genes_clusters.22",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 39031,
+      "feature_name": "mouse_multiple_projected_icaloadings.2",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 44069,
+      "feature_name": "mouse_multiple2_facs_diffexprs_genes_clusters.18",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 39598,
+      "feature_name": "mouse_multiple_projected_pcaloadings_clusters.409",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 35277,
+      "feature_name": "mouse_immune_projected_icaloadings.18",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49324,
+      "feature_name": "mouse_vagina_projected_pcaloadings.55",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 42535,
+      "feature_name": "mouse_multiple2_droplet_projected_pcaloadings.73",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 38865,
+      "feature_name": "mouse_multiple_diffexprs_genes_clusters.20",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 28359,
+      "feature_name": "mouse_epithelium_projected_pcaloadings.67",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 36572,
+      "feature_name": "mouse_kidney_projected_pcaloadings_clusters.175",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 42904,
+      "feature_name": "mouse_multiple2_droplet_projected_pcaloadings_clusters.342",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 27445,
+      "feature_name": "mouse_endothelium_projected_pcaloadings_clusters.286",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 30873,
+      "feature_name": "mouse_gutendoderm_projected_pcaloadings_clusters_pre_def.144",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 40025,
+      "feature_name": "mouse_multiple_projected_pcaloadings_clusters_pre_def.326",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49312,
+      "feature_name": "mouse_vagina_projected_pcaloadings.43",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 49360,
+      "feature_name": "mouse_vagina_projected_pcaloadings.91",
+      "pattern": "mouse",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58974,
+      "feature_name": "protdim_644",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58688,
+      "feature_name": "protdim_358",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58775,
+      "feature_name": "protdim_445",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58362,
+      "feature_name": "protdim_32",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58949,
+      "feature_name": "protdim_619",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58813,
+      "feature_name": "protdim_483",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58608,
+      "feature_name": "protdim_278",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58407,
+      "feature_name": "protdim_77",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58701,
+      "feature_name": "protdim_371",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58401,
+      "feature_name": "protdim_71",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59112,
+      "feature_name": "protdim_782",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58952,
+      "feature_name": "protdim_622",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58611,
+      "feature_name": "protdim_281",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58872,
+      "feature_name": "protdim_542",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58735,
+      "feature_name": "protdim_405",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59080,
+      "feature_name": "protdim_750",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58427,
+      "feature_name": "protdim_97",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59233,
+      "feature_name": "protdim_903",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58861,
+      "feature_name": "protdim_531",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58620,
+      "feature_name": "protdim_290",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59217,
+      "feature_name": "protdim_887",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59330,
+      "feature_name": "protdim_1000",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58942,
+      "feature_name": "protdim_612",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59026,
+      "feature_name": "protdim_696",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59340,
+      "feature_name": "protdim_1010",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58658,
+      "feature_name": "protdim_328",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58617,
+      "feature_name": "protdim_287",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58544,
+      "feature_name": "protdim_214",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58961,
+      "feature_name": "protdim_631",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58969,
+      "feature_name": "protdim_639",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59295,
+      "feature_name": "protdim_965",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58922,
+      "feature_name": "protdim_592",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58808,
+      "feature_name": "protdim_478",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58370,
+      "feature_name": "protdim_40",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58621,
+      "feature_name": "protdim_291",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59227,
+      "feature_name": "protdim_897",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58650,
+      "feature_name": "protdim_320",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58341,
+      "feature_name": "protdim_11",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58663,
+      "feature_name": "protdim_333",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59038,
+      "feature_name": "protdim_708",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58417,
+      "feature_name": "protdim_87",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59328,
+      "feature_name": "protdim_998",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58361,
+      "feature_name": "protdim_31",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58587,
+      "feature_name": "protdim_257",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58354,
+      "feature_name": "protdim_24",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58334,
+      "feature_name": "protdim_4",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58926,
+      "feature_name": "protdim_596",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58885,
+      "feature_name": "protdim_555",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59276,
+      "feature_name": "protdim_946",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59123,
+      "feature_name": "protdim_793",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59222,
+      "feature_name": "protdim_892",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59314,
+      "feature_name": "protdim_984",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58681,
+      "feature_name": "protdim_351",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59070,
+      "feature_name": "protdim_740",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58640,
+      "feature_name": "protdim_310",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58826,
+      "feature_name": "protdim_496",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58795,
+      "feature_name": "protdim_465",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58962,
+      "feature_name": "protdim_632",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58899,
+      "feature_name": "protdim_569",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58397,
+      "feature_name": "protdim_67",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59243,
+      "feature_name": "protdim_913",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 58636,
+      "feature_name": "protdim_306",
+      "pattern": "protdim",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59367,
+      "feature_name": "phastCons7way_mean",
+      "pattern": "phastCons7way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59368,
+      "feature_name": "phastCons7way_max",
+      "pattern": "phastCons7way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59369,
+      "feature_name": "phastCons17way_mean",
+      "pattern": "phastCons17way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59370,
+      "feature_name": "phastCons17way_max",
+      "pattern": "phastCons17way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59371,
+      "feature_name": "phastCons20way_mean",
+      "pattern": "phastCons20way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59372,
+      "feature_name": "phastCons20way_max",
+      "pattern": "phastCons20way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59373,
+      "feature_name": "phastCons30way_mean",
+      "pattern": "phastCons30way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59374,
+      "feature_name": "phastCons30way_max",
+      "pattern": "phastCons30way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59375,
+      "feature_name": "phastCons100way_mean",
+      "pattern": "phastCons100way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59376,
+      "feature_name": "phastCons100way_max",
+      "pattern": "phastCons100way",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59377,
+      "feature_name": "transcript_length",
+      "pattern": "transcript",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59379,
+      "feature_name": "transcript_GC",
+      "pattern": "transcript",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59378,
+      "feature_name": "num_exons",
+      "pattern": "num",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59380,
+      "feature_name": "5UTR_length",
+      "pattern": "5UTR",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59381,
+      "feature_name": "5UTR_GC",
+      "pattern": "5UTR",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59382,
+      "feature_name": "CDS_GC",
+      "pattern": "CDS",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65390,
+      "feature_name": "CDS_length",
+      "pattern": "CDS",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59383,
+      "feature_name": "3UTR_length",
+      "pattern": "3UTR",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 59384,
+      "feature_name": "3UTR_GC",
+      "pattern": "3UTR",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 62412,
+      "feature_name": "coexp_ENSG00000223884",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 64613,
+      "feature_name": "coexp_ENSG00000235026",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65308,
+      "feature_name": "coexp_ENSG00000196497",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65233,
+      "feature_name": "coexp_ENSG00000149929",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65065,
+      "feature_name": "coexp_ENSG00000203808",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65142,
+      "feature_name": "coexp_ENSG00000151687",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65378,
+      "feature_name": "coexp_ENSG00000278918",
+      "pattern": "coexp",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    },
+    {
+      "selected_column": 65391,
+      "feature_name": "X_chromosome",
+      "pattern": "X",
+      "selection_method": "variance_then_centroid",
+      "strict_mode": true
+    }
+  ]
+}

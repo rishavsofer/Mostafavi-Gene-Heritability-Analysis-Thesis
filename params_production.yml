@@ -1,0 +1,33 @@
+feature_start_column: 20000
+feature_end_column: 20999
+batch_size: 50
+max_parallel_features: 20
+test_mode: false
+
+base_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis"
+output_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/output_production"
+scripts_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/scripts"
+logs_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/output_production/logs"
+data_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta"
+checkpoint_file: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/output_production/completed_features.txt"
+
+feature_file: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/all_gene_features.tsv"
+gencode_file: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/gencode_protein_coding_all_features_fixed.bed"
+
+ldsc_snps_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/output_production/ldsc_snps"
+combined_annot_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/output_production/combined_annotations"
+coding_annot_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/Coding_Only_Annotations/"
+
+snp_folder: "/gpfs/data/mostafavilab/shared_data/LDSC_data/1000G_EUR_Phase3_plink/"
+snp_file_prefix: "1000G.EUR.QC."
+snp_file_suffix: ".bim"
+ldsc_path: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/ldsc"
+snp_file: "/gpfs/data/mostafavilab/shared_data/LDSC_data/hm3_no_mhc_snps.txt"
+weights_path: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/ldsc/"
+frq_path: "/gpfs/data/mostafavilab/shared_data/LDSC_data/1000G_Phase3_frq/1000G.EUR.QC."
+sumstats_file: "/gpfs/data/mostafavilab/GWAS/50_irnt_standing_height_both_sexes/HEIGHT.rsid.sumstats.gz"
+heritability_dir: "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/feature_analysis/output_production/heritability"
+
+static_ref_ld_paths:
+  - "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/Gene_Density_Annots_Final/"
+  - "/gpfs/data/mostafavilab/rishav.e.s.dasgupta/Coding_Only_Annotations/"
